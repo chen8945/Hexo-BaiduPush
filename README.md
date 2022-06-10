@@ -102,13 +102,13 @@
 
 9. 添加账户
 
-   进入`_User`表中，点击添加行，然后按要求填写即可
+   进入`_User`表中，点击添加行，然后按要求填写即可。
 
    ![14.png](https://tva1.sinaimg.cn/large/832afe33ly1gbg2097klyj20jz0gbglv.jpg)
 
 10. 登录后台
 
-    可以用刚才添加的账号密码进行登录了。如果一切顺利的话，会看到这个界面
+    可以用刚才添加的账号密码进行登录了。如果一切顺利的话，会看到这个界面。
 
     ![15.png](https://tva1.sinaimg.cn/large/832afe33ly1gbg21h81hbj20x9090weq.jpg)
 
